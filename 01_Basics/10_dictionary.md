@@ -6,4 +6,4 @@
 six image on telegram
 
 
-![alt text](image-2.png)
+![alt text](./image/image-44.png)
