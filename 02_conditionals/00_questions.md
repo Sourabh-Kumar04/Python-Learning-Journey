@@ -38,15 +38,15 @@
 
 <details>
     <summary>8. Password Strength  Checker</summary>
-    Classify a person's age group:  Child (< 13), Teenager (13-19),  Adult (20-59), Senior (60+)
+    Problem: Check if a password is "Weak", "Medium", or "Strong". Criteria: <6 chars(weak), 6-10 chars(medium), >10 chars(strong)
 </details>
 
 <details>
     <summary>9. Leap Year Checker</summary>
-    Classify a person's age group:  Child (< 13), Teenager (13-19),  Adult (20-59), Senior (60+)
+    Problem: Detemine if a year is a leap year. (Leap year are divisible by 4, but not by 100 unless also divisible by 400)
 </details>
 
 <details>
     <summary>10. Pet Food Recommendation</summary>
-    Classify a person's age group:  Child (< 13), Teenager (13-19),  Adult (20-59), Senior (60+)
+    Problem: Recommend a type of prt food based on the pet's species and age. (e.g. Dog <2 year - puppy food, Cat: >5 year - Senior cat food)
 </details>
