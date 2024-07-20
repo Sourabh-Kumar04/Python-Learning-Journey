@@ -17,27 +17,27 @@
 
 <details>
     <summary>4. Function Returning Multiple Values</summary>
-    Problem: Reverse string using a loop
+    Problem: Create a function that returns both the area and circumferece of a circle given its radius.
 </details>
 
 <details>
     <summary>5. Default Parameter Value</summary>
-    Problem:  Given a string. find the first non-repeated character.
+    Problem:  Write a function that greets a user. If no name is provided, it should greet with a default name.
 </details>
 
 
 <details>
     <summary>6. Lambda Function</summary>
-    Problem: Compute the factorial of a number using a while loop
+    Problem: Create a lambda function to compute the square of a number.
 </details>
 
 <details>
-    <summary>7. Validate Input</summary>
-    Problem: Keep asking the user for input until they enter a number between 1 and 10.
+    <summary>7. Function with *args</summary>
+    Problem: Write s function that takes variable number of argumentrs and returns their sum.
 </details>
 
 <details>
-    <summary>8. Function with *args</summary>
+    <summary>8. Function with *kwargs</summary>
     Problem: Check if a number is prime
 </details>
 
