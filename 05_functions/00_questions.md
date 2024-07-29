@@ -33,23 +33,20 @@
 
 <details>
     <summary>7. Function with *args</summary>
-    Problem: Write s function that takes variable number of argumentrs and returns their sum.
+    Problem: Write a function that takes variable number of argumentrs and returns their sum.
 </details>
 
 <details>
     <summary>8. Function with *kwargs</summary>
-    Problem: Check if a number is prime
+    Problem: Create a function that accepts any number of keywords arguments and prints them in the format key: value.
 </details>
 
 <details>
     <summary>9. Generator Function with yield</summary>
-    Problem: Check if all elements in a list are unique. If a duplicate is found, exit the loop and print the duplicate
-
-    items - ["apple", "banana", "orange", "apple", "mango"]
-
+    Problem: Write a generator function that yields even numbers up to a specific limit.
 </details>
 
 <details>
     <summary>10. Recursive Function</summary>
-    Problem: Implement an exponential backoff strategy that doubles the wait time between retries, starting from 1 second, but stop after 5 reteries.
+    Problem: Create a recursive function to calculate the factorial of a number.
 </details>
