@@ -44,7 +44,7 @@ This repository provides a comprehensive Python learning path, from basics to ad
 - Python 3.x ([Python Download](https://www.python.org/downloads/))
 - pip (Python package manager) ([Install pip](https://pip.pypa.io/en/stable/installation/))
 - MongoDB (for advanced database section)
-
+N
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
